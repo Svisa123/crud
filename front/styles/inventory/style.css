@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.sidebar {
+  position: fixed;
+  width: 350px;
+  height: 100vh;
+  background-color: #4e73df;
+}
+.title {
+  text-align: center;
+  color: white;
+  border-bottom: 0.5px solid gray;
+  padding-bottom: 30px;
+}
+.link {
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  margin-left: 20px;
+}
+.container-link {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  border-bottom: 0.5px solid gray;
+  padding: 20px 0px;
+  
+}
+.interface{
+    color: #95ABEB;
+    margin-left: 20px;
+}
+.border-none{
+    border: none;
+  
+}
